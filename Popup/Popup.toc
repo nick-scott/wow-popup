@@ -1,0 +1,6 @@
+## Interface: 90001
+## Title: Popup
+## Author: Idzuna
+## SavedVariables: PopupDB
+
+embeds.xml
